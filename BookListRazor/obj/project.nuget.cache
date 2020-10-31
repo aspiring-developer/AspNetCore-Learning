@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zMFoHn0iCaklVhL4PPQR5q6IXN3nTOUxulWNtH60R2XzGx8qELgCc5EvDANESUpIwFb1Z28yMVBbVa0yRg8c1Q==",
+  "dgSpecHash": "KU3BNvlP8Q6R0g4hcfw0GgC8OHKgiCIAnCFWOS9LWXnuN8F1/wM7Xp+osUceCfB264qLGqoStVljMzj2mDQqqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\ASPNET-Learning\\aspnet-CRUD-Bhrugen-Patel\\BookListRazor\\BookListRazor.csproj",
+  "projectFilePath": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\AspNetCore-Learning\\BookListRazor\\BookListRazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\19197\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.9\\microsoft.aspnetcore.mvc.razor.extensions.3.1.9.nupkg.sha512",
     "C:\\Users\\19197\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.9.nupkg.sha512",

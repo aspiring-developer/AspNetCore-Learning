@@ -6180,11 +6180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\ASPNET-Learning\\aspnet-CRUD-Bhrugen-Patel\\BookListRazor\\BookListRazor.csproj",
+      "projectUniqueName": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\AspNetCore-Learning\\BookListRazor\\BookListRazor.csproj",
       "projectName": "BookListRazor",
-      "projectPath": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\ASPNET-Learning\\aspnet-CRUD-Bhrugen-Patel\\BookListRazor\\BookListRazor.csproj",
+      "projectPath": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\AspNetCore-Learning\\BookListRazor\\BookListRazor.csproj",
       "packagesPath": "C:\\Users\\19197\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\ASPNET-Learning\\aspnet-CRUD-Bhrugen-Patel\\BookListRazor\\obj\\",
+      "outputPath": "C:\\Users\\19197\\Desktop\\LEARNING-RELATED\\AspNetCore-Learning\\BookListRazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
