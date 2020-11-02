@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BookListRazor"
+    "\\BookListRazor",
+    "\\BookListRazor\\Model",
+    "\\BookListRazor\\Pages",
+    "\\BookListRazor\\Pages\\BookList"
   ],
   "SelectedNode": "\\BookListRazor\\BookListRazor.sln",
   "PreviewInSolutionExplorer": false
