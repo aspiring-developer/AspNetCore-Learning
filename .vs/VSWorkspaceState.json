@@ -6,6 +6,6 @@
     "\\BookListRazor\\Pages",
     "\\BookListRazor\\Pages\\BookList"
   ],
-  "SelectedNode": "\\BookListRazor\\Pages\\BookList\\EditPage.cshtml.cs",
+  "SelectedNode": "\\BookListRazor\\Model\\Book.cs",
   "PreviewInSolutionExplorer": false
 }
