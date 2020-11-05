@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BookListRazor",
-    "\\BookListRazor\\Model",
-    "\\BookListRazor\\Pages",
-    "\\BookListRazor\\Pages\\BookList"
+    "\\Practice-MVC-1",
+    "\\Practice-MVC-1\\Controllers",
+    "\\Practice-MVC-1\\Views",
+    "\\Practice-MVC-1\\Views\\Home",
+    "\\Practice-MVC-1\\Views\\Shared"
   ],
-  "SelectedNode": "\\BookListRazor\\Model\\Book.cs",
+  "SelectedNode": "\\Practice-MVC-1\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }
