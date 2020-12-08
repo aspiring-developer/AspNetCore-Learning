@@ -1,0 +1,1 @@
+Here are some texts from branch 1 after branch 2 already  pushed some codes in this same file.
