@@ -1,0 +1,8 @@
+
+test.txt file was empty, but these texts are typed in Branch-2-12072020.
+
+Branch-2 is pushing this text file from branch instance.
+This is latest at 08:47pm (12072020)
+
+Here are some texts from branch 1 after branch 2 already  pushed some codes in this same file.
+
