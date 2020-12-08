@@ -1,6 +1,2 @@
-
-There is something from local copy.
-Edited in Github
-
-There is 2nd from local copy.
+Edited-locally-12072020.
 
